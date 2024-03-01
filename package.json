@@ -1,0 +1,8 @@
+{
+  "name": "http-trap",
+  "version": "1.0.0",
+  "main": "trap.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
